@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"renderer"
+			],
+			[
+				"Red",
+				"RenderWindo"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pakage reso",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Logan/Desktop/retro-dev-engine/src/main.cpp",
+		"/C/Users/Logan/Desktop/retro-dev-engine/include/RenderWindow.hpp",
+		"/C/Users/Logan/Desktop/sonic_engine/sonicengine.sublime-project",
+		"/C/Users/Logan/Desktop/sonic_engine/src/main.cpp",
+		"/C/Users/Logan/Desktop/sonic_engine/sonicengine.sublime-workspace",
+		"/C/Users/Logan/Desktop/sonic_engine/src/ally.cpp",
+		"/C/Users/Logan/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/Users/Logan/AppData/Roaming/Sublime Text 3/Packages/Default/Add Line in Braces.sublime-macro",
+		"/C/Users/Logan/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Logan/Desktop/cpp/main.cpp",
+		"/C/Users/Logan/Desktop/main.cpp",
+		"/C/Users/Logan/Desktop/test.cpp",
+		"/C/Users/Logan/Downloads/Project-Raven-master/Project-Raven-master/Minecraft/Minecraft/Client/Rendering/Moon.cpp",
+		"/C/Users/Logan/Downloads/Project-Raven-master/Project-Raven-master/Minecraft/Minecraft/Client/Rendering/Clouds.cpp",
+		"/C/Users/Logan/AppData/Roaming/Sublime Text 3/Packages/User/c++ building system.sublime-build",
+		"/C/Users/Logan/Desktop/Game/src/main.cpp",
+		"/C/Users/Logan/Desktop/Game/SDL2 Platformer.sublime-project",
+		"/C/Users/Logan/Desktop/frame.cpp",
+		"/C/Users/Logan/Desktop/lol.cpp",
+		"/C/Users/Logan/Downloads/2D-Side-scrolling-Game-master/2D-Side-scrolling-Game-master/game/main.cpp",
+		"/C/Users/Logan/Desktop/Main.cpp",
+		"/C/Users/Logan/Desktop/Testing C++/Game.cpp",
+		"/C/Users/Logan/Desktop/SMMD-Engine (2)/discord-rpc.dll",
+		"/C/Users/Logan/Downloads/obj_style_changers.gml.cpp",
+		"/C/Users/Logan/Downloads/Mario_Editor_v1.4/Settings.dat",
+		"/C/Users/Logan/Downloads/Mario_Editor_v1.4/nsfs.dll",
+		"/C/Users/Logan/Desktop/sound.lua",
+		"/C/Users/Logan/Downloads/Cecil_Engine.yyp",
+		"/C/Users/Logan/Downloads/obj_style_changers.gml",
+		"/C/Users/Logan/Downloads/Mario-master/Mario-master/Mario.cbp",
+		"/C/Users/Logan/Downloads/Mario-master/Mario-master/source/DamageBlock.cpp",
+		"/C/Users/Logan/Downloads/testEngine.exe",
+		"/C/Users/Logan/Downloads/prod.keys",
+		"/C/Users/Logan/Downloads/First-Person-Controller-VeryHotShark-master/First-Person-Controller-VeryHotShark-master/README.md",
+		"/C/Users/Logan/Downloads/ryujinx-1.0.4154-win_x64/publish/SOS_README.md",
+		"/C/Users/Logan/Downloads/Boomerang-Suit-(NewerSMBW)/Source Code/poweruphax.yaml",
+		"/C/Users/Logan/Downloads/SMMD-April-Beta/img007.png",
+		"/C/Users/Logan/Desktop/SMMD-Engine (2)/options.ini",
+		"/C/Users/Logan/Desktop/SMMD-Engine (2)/data.win",
+		"/C/Users/Logan/Downloads/FlickyEngine-0.5.5/FlickyEngine-0.5.5/Src/scripts/scr_clamp.gml",
+		"/C/Users/Logan/Downloads/FlickyEngine-0.5.5/FlickyEngine-0.5.5/Src/scripts/scr_game_init.gml",
+		"/C/Users/Logan/Downloads/FlickyEngine-0.5.5/FlickyEngine-0.5.5/Src/scripts/ZoneSetTheme.gml",
+		"/C/Users/Logan/Downloads/FlickyEngine-0.5.5/FlickyEngine-0.5.5/Src/scripts/StopSound_All.gml",
+		"/C/Users/Logan/Downloads/FlickyEngine-0.5.5/FlickyEngine-0.5.5/README.md",
+		"/C/Users/Logan/Downloads/gameScene_37.brlyt",
+		"/C/Users/Logan/Downloads/Mario Multiverse 5.5.0/MarioMultiverse5.5.0/crack.bat",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/World.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/World.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Vector3.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Vector2.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Types.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/TransitionState.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/TransitionState.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Tile.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Tile.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Texture.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Texture.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/TextParticle.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/TextParticle.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Text.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Text.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/StringSwitch.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/StringSwitch.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Star.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Star.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Sprite.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Sprite.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Spiny.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Spiny.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Sound.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Sound.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Singleton.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Shell.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Shell.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Settings.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Settings.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/ResourceManager.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/ResourceManager.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/ReserveItem.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/ReserveItem.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Rendering.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Rendering.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Random.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Random.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Player.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Player.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Plant.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Plant.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Pipe.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Pipe.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/PerlinNoiseSource.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Particle.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Particle.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Paratroopa.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Paratroopa.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/NoiseSource.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Music.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Music.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Mushroom.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Mushroom.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Math.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Math.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/MapState.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/MapState.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Map.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Map.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/MainState.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/MainState.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Main.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Logger.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Logger.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Location.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Location.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LoadingState.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LoadingState.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LevelTheme.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LevelTheme.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LevelGenerator.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LevelEnd.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/LevelEnd.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Level.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Level.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Leaf.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Leaf.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Lakitu.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Lakitu.cpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Ladder.hpp",
+		"/C/Users/Logan/Downloads/ReMaker2.10/ReMaker2.10/source/Ladder.cpp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" x = x + hsp;",
+			"diplay",
+			"SDL2-w64",
+			"SDL2-w64/lib/l",
+			"SDL2-w64/lib/libSDL2",
+			"C:/SDL2-w64/lib/libSDL2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 103.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Release",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
