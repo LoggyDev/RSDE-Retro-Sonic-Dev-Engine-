@@ -4,14 +4,6 @@
 		"selected_items":
 		[
 			[
-				"fad",
-				"fadingSonicin"
-			],
-			[
-				"fadin",
-				"fadingSonic"
-			],
-			[
 				"re",
 				"renderer"
 			],
@@ -210,8 +202,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"SDL_BLENDMODE_BLEND);",
-			"(my_texture, SDL_BLENDMODE_BLEND);",
 			" x = x + hsp;",
 			"diplay",
 			"SDL2-w64",

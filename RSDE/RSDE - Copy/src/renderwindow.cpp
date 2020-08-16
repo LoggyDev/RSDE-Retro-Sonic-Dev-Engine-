@@ -2,15 +2,11 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <iostream>
-#include <windows.h>
-#include <windows.h>
 /*Header Files */
 #include "RenderWindow.hpp"
 
-double x = 40;
-double y = 15;
-
-
+double x;
+double y;
 
 RenderWindow::RenderWindow(const char* p_title, int p_w, int p_h)
 	:window(NULL), renderer(NULL)
@@ -45,19 +41,20 @@ void RenderWindow::clear()
 
 void RenderWindow::render(SDL_Texture* p_tex)
 {
-	
-
+ 	
 	SDL_Rect src;
 	src.x = 0;
 	src.y = 0;
-	src.w = 683 / 2;
-	src.h = 420/ 2;
+	src.w = 29;
+	src.h = 39;
+
+
 
 	SDL_Rect dst;
 	dst.x = x;
 	dst.y = y;
-	dst.w = 683 / 2;
-	dst.h = 420 / 2;
+	dst.w = 29;
+	dst.h = 39;
 
 
 	SDL_RenderCopy(renderer, p_tex, &src, &dst);
@@ -87,11 +84,6 @@ void RenderWindow::input() {
 	
 	if (state[SDL_SCANCODE_RIGHT]) {
     	printf("right\n");
-    }
-
-FreeConsole();
-    if (state[SDL_SCANCODE_F1]) {
-    	FreeConsole();
-    }
-    
+    	
+    		}
 };
